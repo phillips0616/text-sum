@@ -1,4 +1,4 @@
-__author__ = "Phillip Smith"
+__author__ = "phillips0616"
 
 from nltk import word_tokenize, sent_tokenize
 from nltk.corpus import stopwords
