@@ -2,7 +2,7 @@
 The goal of this project is to create accurate and readable summarizations from news articles.
 
 ## *Description*
-This project uses Python 3 and the NLTK(Natural Langugage Toolkit) library to produce extractive summaries.
+This project uses Python 3 and the NLTK(Natural Language Toolkit) library to produce extractive summaries.
 
 Link to NLTK: [NLTK](http://www.nltk.org/)
 
