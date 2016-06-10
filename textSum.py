@@ -77,7 +77,7 @@ def print_summary(text, ordered_rankings):
         elif sentence_similarity(text[s], text[s - 1]) > .7: #determines if the next sentence in the summary is too similar to the previous sentence
             print(text[sentence_indices[s]])
             summary_indexes.append(sentence_indices[s])
-        return summary_indexes
+    return summary_indexes
 
 #input filename of article to be summarized
 #prints summary of article and returns proper noun coverage
